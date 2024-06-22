@@ -4,18 +4,23 @@
  * @return {number}
  */
 var numSubarraysWithSum = function(nums, goal) {
-    let count = new Map()
-    count.set(0, 1)
-    let currSum = 0
+    /*
+        [1, 0, 1]
+        [1, 0, 1]
+    */
+    let prefixSum = 0
     let total = 0
+    let prefixMap = new Map()
+    prefixMap.set(0, 1)
 
-    for ( let num of nums) {
-        currSum += num
-        if ( count.has(currSum - goal)) {
-            total += count.get(currSum - goal)
+    for ( let i = 0; i<nums.length; i++) {
+        prefixSum += nums[i]
+
+        if (prefixMap.has(prefixSum - goal)) {
+            total += prefixMap.get(prefixSum - goal)
         }
 
-        count.set(currSum, (count.get(currSum) || 0) + 1)
+        prefixMap.set(prefixSum, (prefixMap.get(prefixSum) || 0) + 1)
     }
 
     return total
