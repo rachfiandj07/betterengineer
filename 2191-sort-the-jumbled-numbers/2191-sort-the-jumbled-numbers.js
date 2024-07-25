@@ -27,8 +27,6 @@ var sortJumbled = function(mapping, nums) {
 
         if (freqA !== freqB) {
             return freqA - freqB
-        } else {
-            return b - a
         }
     })
 
