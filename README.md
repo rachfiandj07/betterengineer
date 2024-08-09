@@ -6,3 +6,23 @@ LeetCode is mid
 ![image](https://github.com/rachfiandj07/betterengineer/assets/58916388/3ab22ff8-3ec8-43a9-8fe5-5d2969c9c3d9)
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/0870-magic-squares-in-grid) |
+## Hash Table
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/0870-magic-squares-in-grid) |
+## Math
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/0870-magic-squares-in-grid) |
+## Matrix
+|  |
+| ------- |
+| [0870-magic-squares-in-grid](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/0870-magic-squares-in-grid) |
+<!---LeetCode Topics End-->
