@@ -27,4 +27,16 @@ LeetCode is mid
 |  |
 | ------- |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+## Array
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Simulation
+|  |
+| ------- |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/2692-take-gifts-from-the-richest-pile) |
 <!---LeetCode Topics End-->
