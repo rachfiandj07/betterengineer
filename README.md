@@ -18,10 +18,12 @@ LeetCode is mid
 ## Binary Search
 |  |
 | ------- |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Sliding Window
 |  |
 | ------- |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Counting
 |  |
@@ -31,6 +33,7 @@ LeetCode is mid
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -39,4 +42,8 @@ LeetCode is mid
 |  |
 | ------- |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Sorting
+|  |
+| ------- |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 <!---LeetCode Topics End-->
