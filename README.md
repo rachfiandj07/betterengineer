@@ -14,6 +14,7 @@ LeetCode is mid
 ## String
 |  |
 | ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 ## Binary Search
 |  |
@@ -46,4 +47,8 @@ LeetCode is mid
 |  |
 | ------- |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/rachfiandj07/i_must_do_this_for_my_future/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
